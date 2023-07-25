@@ -1,4 +1,4 @@
-package com.api.logintest;
+package com.api.sociallogin;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

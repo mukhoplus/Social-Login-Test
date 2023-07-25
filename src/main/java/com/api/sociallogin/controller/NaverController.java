@@ -1,4 +1,4 @@
-package com.api.logintest.controller;
+package com.api.sociallogin.controller;
 
 import java.util.HashMap;
 
@@ -9,8 +9,8 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.servlet.ModelAndView;
 
-import com.api.logintest.service.impl.NaverService;
-import com.api.logintest.util.ApiUtil;
+import com.api.sociallogin.service.impl.NaverService;
+import com.api.sociallogin.util.ApiUtil;
 
 @Controller
 @RequestMapping("/login/naver")

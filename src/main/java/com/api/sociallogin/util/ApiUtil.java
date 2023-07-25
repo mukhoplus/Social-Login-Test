@@ -1,4 +1,4 @@
-package com.api.logintest.util;
+package com.api.sociallogin.util;
 
 import java.io.BufferedReader;
 import java.io.IOException;

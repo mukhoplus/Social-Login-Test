@@ -1,4 +1,4 @@
-package com.api.logintest.service;
+package com.api.sociallogin.service;
 
 import java.util.HashMap;
 

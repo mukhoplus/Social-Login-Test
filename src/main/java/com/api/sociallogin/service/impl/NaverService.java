@@ -1,4 +1,4 @@
-package com.api.logintest.service.impl;
+package com.api.sociallogin.service.impl;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -7,9 +7,9 @@ import javax.servlet.http.HttpServletRequest;
 
 import org.springframework.stereotype.Service;
 
-import com.api.logintest.service.ApiService;
-import com.api.logintest.util.ApiKey;
-import com.api.logintest.util.ApiUtil;
+import com.api.sociallogin.service.ApiService;
+import com.api.sociallogin.util.ApiKey;
+import com.api.sociallogin.util.ApiUtil;
 import com.google.gson.JsonObject;
 
 @Service
