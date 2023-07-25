@@ -1,4 +1,4 @@
-package com.api.ogintest.service.impl;
+package com.api.logintest.service.impl;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -7,9 +7,9 @@ import javax.servlet.http.HttpServletRequest;
 
 import org.springframework.stereotype.Service;
 
-import com.api.ogintest.service.ApiService;
-import com.api.ogintest.util.ApiKey;
-import com.api.ogintest.util.ApiUtil;
+import com.api.logintest.service.ApiService;
+import com.api.logintest.util.ApiKey;
+import com.api.logintest.util.ApiUtil;
 import com.google.gson.JsonObject;
 
 @Service

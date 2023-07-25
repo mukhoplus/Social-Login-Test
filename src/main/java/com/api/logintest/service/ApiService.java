@@ -1,4 +1,4 @@
-package com.api.ogintest.service;
+package com.api.logintest.service;
 
 import java.util.HashMap;
 

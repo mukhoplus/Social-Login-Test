@@ -1,4 +1,4 @@
-package com.api.ogintest.util;
+package com.api.logintest.util;
 
 import java.io.BufferedReader;
 import java.io.IOException;

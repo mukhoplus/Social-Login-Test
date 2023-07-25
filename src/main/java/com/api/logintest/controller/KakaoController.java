@@ -1,4 +1,4 @@
-package com.api.ogintest.controller;
+package com.api.logintest.controller;
 
 import java.util.HashMap;
 
@@ -9,8 +9,8 @@ import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 
-import com.api.ogintest.service.impl.KakaoService;
-import com.api.ogintest.util.ApiUtil;
+import com.api.logintest.service.impl.KakaoService;
+import com.api.logintest.util.ApiUtil;
 
 @Controller
 @RequestMapping("/login/kakao")
