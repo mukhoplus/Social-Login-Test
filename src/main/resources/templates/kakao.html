@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>카카오 결과</title>
+</head>
+<body>
+    <h2>카카오 로그인 API 호출 결과</h2>
+    <p th:inline="text">토큰 : [[${token}]]</p>
+    <p th:inline="text">이메일 : [[${email}]]</p>
+    <button onclick="location.href='/'">뒤로 가기</button>
+</body>
+</html>
